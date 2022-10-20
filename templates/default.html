@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Amir Dekel | $title$</title>
+        <title>Amir Dekel$if(hide-title)$$else$ | $title$$endif$</title>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/modern-normalize@1.1.0/modern-normalize.min.css">
         <link rel="stylesheet" href="/css/default.css" />
     </head>
@@ -19,7 +19,9 @@
         </header>
 
         <main role="main">
+            $if(hide-title)$$else$
             <h1>$title$</h1>
+            $endif$
             $body$
         </main>
 
