@@ -2,4 +2,4 @@
 title: ""
 ---
 
-Philosopher, programmer and sometimes an artist.
+Philosopher, [programmer](coding.html) and sometimes an artist.
