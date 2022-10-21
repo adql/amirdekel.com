@@ -33,6 +33,7 @@ These are small projects I currently work on. Both are built with **PureScript**
 ### A Bit of Code ###
 
 - Pandoc \[[PRs](https://github.com/jgm/pandoc/pulls?q=is%3Apr+is%3Aclosed+author%3Aadql)\], **Haskell**: Universal markup converter
+- Org-roam [[PRs](https://github.com/org-roam/org-roam/pulls?q=is%3Apr+is%3Aclosed+author%3Aadql)], **Emacs Lisp**: Rudimentary Roam replica with Org-mode
 - Prelude \[[PRs](https://github.com/bbatsov/prelude/pulls?q=is%3Apr+is%3Aclosed+author%3Aadql)\], **Emacs Lisp**: Enhanced Emacs distribution
 
 ### Documentation ###
