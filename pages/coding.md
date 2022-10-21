@@ -32,11 +32,11 @@ These are small projects I currently work on. Both are built with **PureScript**
 
 ### A Bit of Code ###
 
-- Pandoc \[[commits](https://github.com/jgm/pandoc/commits/master?author=adql)\], **Haskell**: Universal markup converter
-- Prelude \[[commits](https://github.com/bbatsov/prelude/commits/master?author=adql)\], **Emacs Lisp**: Enhanced Emacs distribution
+- Pandoc \[[PRs](https://github.com/jgm/pandoc/pulls?q=is%3Apr+is%3Aclosed+author%3Aadql)\], **Haskell**: Universal markup converter
+- Prelude \[[PRs](https://github.com/bbatsov/prelude/pulls?q=is%3Apr+is%3Aclosed+author%3Aadql)\], **Emacs Lisp**: Enhanced Emacs distribution
 
 ### Documentation ###
 
-- Extempore \[[commits](https://github.com/extemporelang/extemporelang.github.io/commits/master?author=adql)\]: Cyberphysical programming
-- Exercism Haskell track \[[commits](https://github.com/exercism/haskell/commits/main?author=adql)\]
-- Parsec \[[commits](https://github.com/haskell/parsec/commits/master?author=adql)\]: Haskell parsing library
+- Extempore \[[PRs](https://github.com/extemporelang/extemporelang.github.io/pulls?q=is%3Apr+is%3Aclosed+author%3Aadql)\]: Cyberphysical programming
+- Exercism Haskell track \[[PRs](https://github.com/exercism/haskell/pulls?q=is%3Apr+is%3Aclosed+author%3Aadql)\]
+- Parsec \[[PRs](https://github.com/haskell/parsec/pulls?q=is%3Apr+is%3Aclosed+author%3Aadql)\]: Haskell parsing library
