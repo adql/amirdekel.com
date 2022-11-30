@@ -22,4 +22,11 @@ main = hakyll $ do
     compile $ pandocCompiler
       >>= loadAndApplyTemplate "templates/default.html" defaultContext
 
+  -- cv.pdf must be created externally since org includes are not
+  -- honored -- https://github.com/jaspervdj/hakyll/issues/635
+  match "pages/cv.pdf" $ do
+    route   $ constRoute
+      "Amir_Dekel_CV.pdf"
+    compile $ copyFileCompiler
+
   match "templates/*" $ compile templateBodyCompiler
