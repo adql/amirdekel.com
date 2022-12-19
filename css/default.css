@@ -27,12 +27,22 @@ header .logo {
 }
 
 nav {
+    display: flex;
     margin-top: 0.4em;
 }
 
-nav a {
+nav #nav-pages a {
     font-variant: all-small-caps;
     margin-right: 0.6em;
+}
+
+nav #social-links {
+    margin-left: auto;
+}
+
+nav #social-links a img {
+    margin-left: 0.4em;
+    height: 1.2em;
 }
 
 main {
