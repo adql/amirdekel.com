@@ -6,10 +6,9 @@ My main focus is on typed functional programming with _Haskell_. I'm also comfor
 
 ## Personal Projects ##
 
-### Utilities ###
+### Full-stack###
 
-- Org Roam Kasten \[[src](https://github.com/adql/org-roam-kasten)\], **Emacs Lisp**: A browser for [Org-roam](https://www.orgroam.com/)
-- My CV \[[src](https://github.com/adql/cv)\], **LaTeX** with **Org-mode** workflow
+- FakeWorld \[[src](https://github.com/adql/fakeworld/)\], **Haskell** with  [Brick](https://hackage.haskell.org/package/brick) and [Servant](https://www.servant.dev/) (_wip_): A [RealWorld](https://github.com/gothinkster/realworld) implementation; not exactly full-stack, since the frontend has a twist: it's a TUI!
 
 ### Frontend ###
 
@@ -17,6 +16,11 @@ These are small projects I currently work on. Both are built with **PureScript**
 
 - [Spure](https://adql.github.io/spure) \[[src](https://github.com/adql/spure)\] Most minimal no-regrets editor (just write, no overview of the text, only very minimal editing); older prototype in **Racket** \[[src](https://github.com/adql/spitter)\]
 - [Purelife](https://adql.github.io/purelife/) \[[src](https://github.com/adql/purelife)\]: Conway\'s Game of Life implementation
+
+### Utilities ###
+
+- Org Roam Kasten \[[src](https://github.com/adql/org-roam-kasten)\], **Emacs Lisp**: A browser for [Org-roam](https://www.orgroam.com/)
+- My CV \[[src](https://github.com/adql/cv)\], **LaTeX** with **Org-mode** workflow
 
 ### Fun Little Projects ###
 
